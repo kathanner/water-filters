@@ -1,0 +1,69 @@
+PARAMETER,MCL
+"1,2,3-Trichloropropane",0.000005
+Heptachlor,0.000010
+Heptachlor epoxide,0.000010
+Chlordane,0.000100
+"1,2-Dibromo-3-chloropropane (DBCP)",0.000200
+BHC-gamma (Lindane),0.000200
+"1,2-Dichloroethane",0.000500
+Carbon tetrachloride,0.000500
+"cis-1,3-Dichloropropene",0.000500
+"trans-1,3-Dichloropropene",0.000500
+Vinyl chloride,0.000500
+"1,1,2,2-Tetrachloroethane",0.001000
+Atrazine,0.001000
+Benzene,0.001000
+Pentachlorophenol (PCP),0.001000
+Alachlor,0.002000
+Dissolved Mercury,0.002000
+Dissolved Thallium,0.002000
+Endrin,0.002000
+Total Mercury,0.002000
+Total Thallium,0.002000
+Toxaphene,0.003000
+Dissolved Beryllium,0.004000
+Simazine,0.004000
+Total Beryllium,0.004000
+"1,1-Dichloroethane",0.005000
+"1,1,2-Trichloroethane",0.005000
+"1,2-Dichloropropane",0.005000
+"1,2,4-Trichlorobenzene",0.005000
+"1,4-Dichlorobenzene",0.005000
+Dissolved Cadmium,0.005000
+Total Cadmium,0.005000
+Dissolved Antimony,0.006000
+Total Antimony,0.006000
+Dinoseb (DNPB),0.007000
+Dissolved Arsenic,0.010000
+Total Arsenic,0.010000
+Total Lead,0.015000
+Carbofuran,0.018000
+Molinate,0.020000
+Methoxychlor,0.030000
+"2,4,5-TP (Silvex)",0.050000
+Dissolved Chromium,0.050000
+Dissolved Selenium,0.050000
+Oxamyl,0.050000
+Total Chromium,0.050000
+Total Selenium,0.050000
+Thiobencarb,0.070000
+Dissolved Nickel,0.100000
+Styrene,0.100000
+Total Nickel,0.100000
+Toluene,0.150000
+Trichlorofluoromethane,0.150000
+"1,1,1-Trichloroethane",0.200000
+Picloram,0.500000
+"1,2-Dichlorobenzene",0.600000
+Glyphosate,0.700000
+Dissolved Aluminum,1.000000
+Dissolved Barium,1.000000
+Dissolved Nitrite,1.000000
+Total Aluminum,1.000000
+Total Barium,1.000000
+Total Copper,1.300000
+Dissolved Fluoride,2.000000
+Dissolved Strontium,8.000000
+Total Strontium,8.000000
+Dissolved Nitrate,10.000000
+Dissolved Nitrate + Nitrite,10.000000
