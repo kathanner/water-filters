@@ -64,8 +64,8 @@ Volatile Suspended Solids,1976
 Dissolved Antimony,1922
 Dissolved Barium,1811
 Total Barium,1522
-Total Beryllium,1485
 Total Antimony,1485
+Total Beryllium,1485
 Percent Cloud Cover,1424
 Microcystis aeruginosa,1342
 Total Mercury,1296
@@ -75,80 +75,80 @@ Bromoform,989
 Bromodichloromethane,989
 Chloroform,989
 Dibromochloromethane,988
+(Bottom) SpecificConductance,928
 (Bottom)Turbidity,928
 (Bottom)pH,928
-(Bottom) SpecificConductance,928
 (Bottom) WaterTemperature,928
 AirTemperature,861
 ElectricalConductance,700
-"1,2-Dibromoethane (EDB)",642
-"1,1-Dichloropropene",642
-"1,2,3-Trichlorobenzene",642
-Trichloroethene,642
-Benzene,642
-Bromochloromethane,642
-Styrene,642
-"1,1-Dichloroethene",642
-"1,3,5-Trimethylbenzene",642
 sec-Butylbenzene,642
-o-Xylene,642
-"1,1-Dichloroethane",642
-n-Propylbenzene,642
-2-Chlorotoluene,642
-Vinyl chloride,642
-"1,2-Dichloropropane",642
-Dibromomethane,642
-"1,3-Dichlorobenzene",642
-"trans-1,3-Dichloropropene",642
-"cis-1,3-Dichloropropene",642
-Hexachlorobutadiene,642
-"1,2,4-Trimethylbenzene",642
-Bromobenzene,642
-"2,2-Dichloropropane",642
-"1,3-Dichloropropane",642
-n-Butylbenzene,642
-"1,2-Dichloroethane",642
 Dichlorodifluoromethane,642
-Methylene chloride,642
-Trichlorofluoromethane,642
-"trans-1,2-Dichloroethene",642
-Methyl tert-butyl ether (MTBE),642
-Chloroethane,642
-"1,2-Dichlorobenzene",642
-4-Chlorotoluene,642
-tert-Butylbenzene,642
-"cis-1,2-Dichloroethene",642
-4-Isopropyltoluene,642
-Chloromethane,642
-"1,2,3-Trichloropropane",642
-Chlorobenzene,642
-"1,1,2-Trichloroethane",642
-"1,2,4-Trichlorobenzene",642
-Toluene,642
-Bromomethane,642
-Carbon tetrachloride,642
-"1,1,1,2-Tetrachloroethane",642
-Isopropylbenzene,642
 "1,2-Dibromo-3-chloropropane (DBCP)",642
-"1,1,2,2-Tetrachloroethane",642
-"1,1,1-Trichloroethane",642
-"1,4-Dichlorobenzene",642
+"1,2,3-Trichloropropane",642
+Chloroethane,642
 Ethyl benzene,642
+"1,3-Dichloropropane",642
+Trichlorofluoromethane,642
+n-Propylbenzene,642
+Bromochloromethane,642
+Vinyl chloride,642
+Carbon tetrachloride,642
+Isopropylbenzene,642
+n-Butylbenzene,642
+Trichloroethene,642
+"1,1-Dichloroethene",642
+"1,1,2-Trichloroethane",642
+Benzene,642
+2-Chlorotoluene,642
+"1,2-Dichlorobenzene",642
+"1,1,1-Trichloroethane",642
+"1,1-Dichloropropene",642
+tert-Butylbenzene,642
+Methyl tert-butyl ether (MTBE),642
+"1,4-Dichlorobenzene",642
+"1,1,2,2-Tetrachloroethane",642
+"cis-1,3-Dichloropropene",642
+Toluene,642
+Chlorobenzene,642
+"1,3-Dichlorobenzene",642
 Naphthalene,642
+Methylene chloride,642
+Styrene,642
+"trans-1,3-Dichloropropene",642
+"cis-1,2-Dichloroethene",642
+"1,2,4-Trimethylbenzene",642
+"1,2-Dichloropropane",642
 Tetrachloroethene,642
+"2,2-Dichloropropane",642
+"1,2-Dibromoethane (EDB)",642
+4-Isopropyltoluene,642
+"1,2-Dichloroethane",642
+4-Chlorotoluene,642
+"1,1,1,2-Tetrachloroethane",642
+"trans-1,2-Dichloroethene",642
+Hexachlorobutadiene,642
+Dibromomethane,642
+Bromomethane,642
+Chloromethane,642
+"1,2,3-Trichlorobenzene",642
+"1,1-Dichloroethane",642
+o-Xylene,642
+Bromobenzene,642
+"1,2,4-Trichlorobenzene",642
+"1,3,5-Trimethylbenzene",642
 m + p Xylene,642
 Dissolved Organic Nitrogen,556
-Cyanazine,512
 Chlorpyrifos,512
 Thiobencarb,512
+Cyanazine,512
 Dissolved Hydroxide (OH-),441
-Dissolved Carbonate (CO3--),441
 Dissolved Bicarbonate (HCO3-),441
-Dichloroacetic Acid (DCAA),427
+Dissolved Carbonate (CO3--),441
 Bromochloroacetic Acid (BCAA),427
+Dichloroacetic Acid (DCAA),427
 Trichloroacetic Acid (TCAA),427
-Monochloroacetic Acid (MCAA),426
 Monobromoacetic Acid (MBAA),426
+Monochloroacetic Acid (MCAA),426
 Dibromoacetic Acid (DBAA),425
 Dissolved Silica (SiO2),384
 Gauge Height,369
@@ -158,97 +158,97 @@ Wind Velocity,306
 Discharge,283
 Pendimethalin,270
 Esfenvalerate,270
-Dichloran,270
 Permethrin,270
+Dichloran,270
 Dissolved Methylmercury,267
-PCB-1242,256
-Endrin aldehyde,256
-"p,p'-DDE",256
-BHC-delta,256
-BHC-beta,256
-Aldrin,256
-Dieldrin,256
-Napropamide,256
-PCB-1221,256
-Endosulfan-I,256
-Heptachlor epoxide,256
-"s,s,s-Tributyl Phosphorotrithioate (DEF)",256
-"Parathion, Ethyl",256
 Naled,256
-Heptachlor,256
-Dimethoate,256
-Benfluralin,256
-Phosmet,256
-PCB-1254,256
-Pentachloronitrobenzene (PCNB),256
-Prometryn,256
-BHC-gamma (Lindane),256
-Toxaphene,256
-Molinate,256
-Simazine,256
 Diazinon,256
-Alachlor,256
-Disulfoton,256
-"Parathion, Methyl",256
-Phorate,256
-"p,p'-DDD",256
-Oxyfluorfen,256
-Norflurazon,256
-Methoxychlor,256
-Diuron,256
-Atrazine,256
-PCB-1232,256
-BHC-alpha,256
-Chlorothalonil,256
+BHC-beta,256
 Metolachlor,256
-Ethion,256
+Azinphos methyl (Guthion),256
+Profenofos,256
+PCB-1254,256
+BHC-delta,256
+"Parathion, Methyl",256
+Alachlor,256
+PCB-1232,256
+Methidathion,256
 PCB-1248,256
 Carbophenothion (Trithion),256
-Mevinphos,256
-Propetamphos,256
-"p,p'-DDT",256
-Malathion,256
-Azinphos methyl (Guthion),256
-Bromacil,256
-Profenofos,256
-Phosalone,256
-Endrin,256
-Endosulfan-II,256
-Chlordane,256
-Endosulfan sulfate,256
-Methidathion,256
 PCB-1016,256
-PCB-1260,256
+Endosulfan-I,256
+Endosulfan-II,256
+Phosmet,256
+"p,p'-DDD",256
 Trifluralin,256
+Chlorothalonil,256
+Napropamide,256
+Dimethoate,256
+Endosulfan sulfate,256
+Disulfoton,256
+Chlordane,256
+Simazine,256
+Endrin,256
+BHC-gamma (Lindane),256
+Propetamphos,256
+Toxaphene,256
+Diuron,256
+Endrin aldehyde,256
+Benfluralin,256
+PCB-1242,256
+Ethion,256
+"p,p'-DDT",256
+Heptachlor,256
+Prometryn,256
+Heptachlor epoxide,256
+Dieldrin,256
+"Parathion, Ethyl",256
+Norflurazon,256
+Mevinphos,256
+"p,p'-DDE",256
+Molinate,256
+Malathion,256
+PCB-1260,256
+Oxyfluorfen,256
+Bromacil,256
+Methoxychlor,256
+Aldrin,256
+Pentachloronitrobenzene (PCNB),256
+Atrazine,256
+Phorate,256
+PCB-1221,256
+BHC-alpha,256
+Phosalone,256
+"s,s,s-Tributyl Phosphorotrithioate (DEF)",256
 Glyphosate,210
-Methiocarb,203
-Aldicarb sulfoxide,203
-Aldicarb,203
-Carbofuran,203
-Aldicarb sulfone,203
-3-Hydroxycarbofuran,203
-Methomyl,203
-Carbaryl,203
 Oxamyl,203
-"2,4-D",192
-Dicamba,192
-MCPP,192
-Dichlorprop,192
-MCPA,192
+3-Hydroxycarbofuran,203
+Aldicarb sulfoxide,203
+Aldicarb sulfone,203
+Carbofuran,203
+Carbaryl,203
+Aldicarb,203
+Methiocarb,203
+Methomyl,203
 "2,4-DB",192
-Triclopyr,192
-Dinoseb (DNPB),192
 Picloram,192
-Pentachlorophenol (PCP),192
-"2,4,5-T",192
+MCPA,192
 "2,4,5-TP (Silvex)",192
-Total Organic Nitrogen,173
+Pentachlorophenol (PCP),192
+Dichlorprop,192
+"2,4,5-T",192
+MCPP,192
+Dinoseb (DNPB),192
+Dicamba,192
+"2,4-D",192
+Triclopyr,192
 Total Ammonia,173
+Total Organic Nitrogen,173
 Propoxur,164
 Chlorpropham,163
 Dissolved Molybdenum,160
-Dicofol,151
 Demeton (Demeton O + Demeton S),151
+Dicofol,151
 Captan,151
 Dissolved Total Kjeldahl Nitrogen,143
 "o,p'-DDE",138
@@ -265,50 +265,50 @@ Total Sodium,85
 Alkalinity,78
 Wind Velocity and Direction,63
 Dissolved Fluoride,59
-Volatile Solids,59
-Soil Solids,59
 Ash Free Dry Mass,59
+Soil Solids,59
+Volatile Solids,59
 Wind Direction,51
 Propargite,47
 Trihalomethane Formation Potential (THMFP),34
 Haloacetic Acid Formation Potential (HAAFP),33
-Escherichia coli,26
 Fecal Coliform,26
 Total Coliform,26
+Escherichia coli,26
 Dissolved Lithium,19
 Field Notes,17
-Formetanate hydrochloride,16
 (Bottom)Water Depth at Station,16
+Formetanate hydrochloride,16
 Dissolved Nitrite,15
-Fenvalerate,14
-Prallethrin,14
 Deltamethrin/Tralomethrin,14
 Cyfluthrin,14
-Tefluthrin,14
-Sumithrin,14
 Allethrin,14
-Cypermethrin,14
 l-Cyhalothrin,14
 Bifenthrin,14
+Cypermethrin,14
+Fenvalerate,14
+Prallethrin,14
+Tefluthrin,14
+Sumithrin,14
 Ronnel,8
 All,8
-pH (w/time),5
 Total Silica (SiO2),5
-SpecificConductance (EC w/time),4
-Total Lithium,4
-Total Strontium,4
+pH (w/time),5
 "4,4'-Dibromoctafluorobiphenyl",4
+Total Lithium,4
 Weather Observations,4
+Total Strontium,4
 Total Thallium,4
+SpecificConductance (EC w/time),4
+Total Vanadium,3
 Total Cobalt,3
 Total Molybdenum,3
 4-Bromofluorobenzene,3
-Total Vanadium,3
 WaterTemperature (w/time),2
 Turbidity (w/time),2
-NorthLatitude,1
-WestLongitude,1
-Carbon Dioxide,1
 "2,3-Dibromopropionic acid",1
 Redox Potential,1
 Settleable Solids,1
+Carbon Dioxide,1
+NorthLatitude,1
+WestLongitude,1
